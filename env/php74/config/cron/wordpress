@@ -1,0 +1,5 @@
+MAILTO=""
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+SHELL=/bin/bash
+
+# * * * * * www /bin/bash /home/www/waiheke-prime-wine/src/wp/cron.sh | grep -v "Ran jobs by schedule" >> /home/www/waiheke-prime-wine/src/wp/log/cron.log

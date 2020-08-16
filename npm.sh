@@ -1,0 +1,1 @@
+docker-compose exec -u www wpwt_php74 npm --prefix /home/www/waiheke-prime-wine-tours/src/app/ $@
